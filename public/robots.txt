@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shenoudasameh.github.io/sitemap.xml

@@ -1,0 +1,23 @@
+.switcherWrapper {
+  display: inline-flex;
+  align-items: center;
+}
+
+.select {
+  background: var(--surface-glass, #172033);
+  color: #ffffff;
+  border: 1px solid var(--border, #28354d);
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.select:focus,
+.select:hover {
+  border-color: #2563eb;
+}
