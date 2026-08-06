@@ -20,18 +20,8 @@ projects: [
     technologies: ["React 18", "PWA", "LocalStorage", "CSS Modules"],
     image: "/projects/images/taskflow.png",
     fallbackImage: getPlaceholder("TaskFlow PWA"),
-    github: "https://github.com/ShenoudaSameh/TaskFlow",
-    demo: "https://taskflow.vercel.app"
-  },
-  {
-    id: "shopsphere",
-    title: "ShopSphere E-Commerce",
-    description: "Full-featured shopping platform with global state management, custom hooks, dynamic REST API product loading, and responsive glassmorphic cards.",
-    technologies: ["React 18", "Context API", "Vite", "REST API"],
-    image: "/projects/images/ShopSphere.png",
-    fallbackImage: getPlaceholder("ShopSphere E-Commerce"),
-    github: "https://github.com/ShenoudaSameh/ShopSphere",
-    demo: "https://shopsphere.vercel.app"
+    github: "https://github.com/ShenoudaSameh/taskflow",
+    demo: "https://date-taskflow.vercel.app/"
   },
   {
     id: "adminx",
@@ -40,8 +30,8 @@ projects: [
     technologies: ["React", "Chart.js", "CSS Variables", "i18next"],
     image: "/projects/images/Adminx-Dashboard-Pro.png",
     fallbackImage: getPlaceholder("AdminX Dashboard"),
-    github: "https://github.com/ShenoudaSameh/AdminX",
-    demo: "https://adminx-dashboard.vercel.app"
+    github: "https://github.com/ShenoudaSameh/Adminx-Dashboard-Pro",
+    demo: "https://adminx-dashboard-pro.vercel.app/"
   },
   {
     id: "devhub",
@@ -50,8 +40,8 @@ projects: [
     technologies: ["React", "React Router", "Vite", "Tailwind CSS"],
     image: "/projects/images/Dev_Hub.png",
     fallbackImage: getPlaceholder("DevHub Platform"),
-    github: "https://github.com/ShenoudaSameh/DevHub",
-    demo: "https://devhub.vercel.app"
+    github: "https://github.com/ShenoudaSameh/Dev_Hub",
+    demo: "https://dev-hub-one-gamma.vercel.app/"
   }
 ]
 };
